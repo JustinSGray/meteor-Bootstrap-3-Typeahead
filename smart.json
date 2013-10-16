@@ -3,6 +3,6 @@
     "description": "Original bootstrap plugin ported to Bootstrap 3. https://github.com/bassjobsen/Bootstrap-3-Typeahead",
     "homepage": "https://github.com/JustinSGray/meteor-Bootstrap-3-Typeahead",
     "author": "Justin Gray",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "git": "https://github.com/JustinSGray/meteor-Bootstrap-3-Typeahead.git"
 }
