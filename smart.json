@@ -1,0 +1,8 @@
+{
+    "name": "x-editable-bootstrap3",
+    "description": "Original boostrap plugin ported to Bootstrap 3. https://github.com/bassjobsen/Bootstrap-3-Typeahead",
+    "homepage": "https://github.com/JustinSGray/meteor-x-editable-bootstrap.git",
+    "author": "Justin Gray",
+    "version": "1.5.1",
+    "git": "https://github.com/JustinSGray/meteor-x-editable-bootstrap.git"
+}
